@@ -11,3 +11,5 @@ Y
 )tests/existence-branch-management.test.ts,7/3/737f3162abf55b3c28369f911c633270e63c5268
 X
 (contracts/cross-reality-integration.clar,0/3/033e1fb3985f5f1ec87e94a2edeccaec2dec5087
+W
+'tests/cross-reality-integration.test.ts,d/3/d3d8a3aa845a424a1b33966b2f873e13ac24bb63
